@@ -13,3 +13,9 @@ The repository contains various PowerBi projects. A detailed description of each
 
    Every HR professional needs a clear understanding of their organization's hiring trends, turnover rates, promotions and all key aspects related to people management.
    Diversity and Inclusion Report offers HR managers vital insights, diving deep into visual analytics. It highlights key visuals such as promotions in a specific financial       year, gender balance, new hires, turnovers and performance ratings across genders. If you are part of the HR team and searching for visual examples, here you are. Dive in!
+
+
+## 3. NGO Analysis
+
+   Non-profit organizations primarily rely on donations, grants and memberships as their source of funding. This report focuses on the contributions made by various             organizations and individuals through donations and grants, highlighting their impact on different sectors. if you're curious about how NGOs analyze their funding impact,    this dashboard provides valuable insights. Explore it for a comprehensive view!
+   
