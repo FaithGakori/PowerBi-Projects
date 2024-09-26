@@ -1,5 +1,6 @@
 # Power BI-Projects
-The repository contains various PowerBi projects. A detailed description of each dashboard/report is explained below:
+The repository contains various PowerBi projects. A detailed description of each dashboard/report is explained below.
+Note: for every .pbix a pdf is provided for a quick overview.
 
 ## 1. Call Center
    
