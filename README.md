@@ -17,5 +17,5 @@ The repository contains various PowerBi projects. A detailed description of each
 
 ## 3. NGO Analysis
 
-   Non-profit organizations primarily rely on donations, grants and memberships as their source of funding. This report focuses on the contributions made by various             organizations and individuals through donations and grants, highlighting their impact on different sectors. if you're curious about how NGOs analyze their funding impact,    this dashboard provides valuable insights. Explore it for a comprehensive view!
+   Non-profit organizations primarily rely on donations, grants and memberships as their source of funding. This report focuses on the contributions made by various             organizations and individuals through donations and grants, highlighting their impact on different sectors. If you're curious about how NGOs analyze their funding impact,    this dashboard provides valuable insights. Explore it for a comprehensive view!
    
